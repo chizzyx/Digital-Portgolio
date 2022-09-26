@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <title>Fingerprint</title>
+  </head>
+  <style>
+
+    div{
+	display: flex
+	justify-content: space-between;
+    }
+
+    .center {
+	display: block
+	margin-left: auto;
+	margin-right: auto;
+    }
+    body{
+	background-color: #FFC0cb
+    }
+
+    body2 {
+	background-color: ;
+  </style>
+
+  <body2>
+    <br />
+    <br />
+    <br />
+    <h1 style="margin-left: 600px; margin-right: 300px">Fingerprints</h1>
+    <br />
+    <br />
+    <br />
+    <br />
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px;">A Digital Fingerprint is a digital indentifier. The fingerprinting software analyzes our device data and saves it outside the users control. This identifies and tracks all internet users. To solve this problem websites are switching from the traditional HTTP to HTTPS.</p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px;">HTTPS connection enhance the users security and privacy. Private institutions have responded to this loss of visibility by developing new technology known as HTTPS Proxy Appliances. These devices circumvent our most basic assumption and guarantee of Internet browser privacy and security.</p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px;">A use of secure connections is to prevent MITM. MITM stands for man in the middle attacks. It is a cybersecuirty attack allows attackers to eavesdrop on the communication between two targets. This is a very dangerous type of cybersecurity attack because some conversations contain very sensitive information. You could expose important info like your social security or credit card number.</p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px;">Another way to boost your security is hashes. Cryptographic hashes are complex mathematical algorithms which carefully process every single bit of what they digest. A good hash will chnage over half the hash bits of a fingerprint resulting in a completely different fingerprint.</p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px;">A CA is a certificate authority. They are trusted entitys that issue digital certificates to authenticate content sent from web servers.</p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px;">Another type of cyber attack is SSL interception. The sad truth is SSL interception cant be prevented because it is not possible to completely spoof any security certificate but it can be reliably detected.</p>
+    <br />
+    <br />
+
+    <img src="https://static4.arrow.com/-/media/arrow/images/820-x-410/0/0118-sensors_finger-print.jpg" style="margin-left: 300px">
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <p style="font-size: 40px; margin-left: 620px; margin-right: 300px;">
+      Refrences
+    </p>
+    <p style="font-size: 16px; margin-left: 500px; margin-right: 300px;">
+      https://oxylabs.io/blog/what-is-an-ssl-proxy-and-benefits
+    </p>
+    <p style="font-size: 16px; margin-left: 500px; margin-right: 300px;">
+      https://www.grc.com/fingerprints.htm#top
+    </p>
+    <p style="font-size: 16px; margin-left: 500px; margin-right: 300px;">
+      https://www.grc.com/fingerprints.htm#top
+    </p>
+    <p style="font-size: 16px; margin-left: 500px; margin-right: 300px;">
+      https://www.techtarget.com/searchsecurity/definition/certificate-authority
+    </p>
+    <p style="font-size: 16px; margin-left: 500px; margin-right: 300px;">
+      https://understandingdata.com/what-is-a-digital-fingerprint/
+      </p>
+</html>

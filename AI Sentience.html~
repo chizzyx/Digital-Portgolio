@@ -1,0 +1,100 @@
+
+
+
+<html>
+  <head>
+    <title>AI Sentience</title>
+  </head>
+  <style>
+    
+    div{
+	display: flex
+	justify-content: space-between;
+    }
+    .center{
+	display: block
+	margin-left: auto;
+	margin-right: auto
+    }
+    body{
+	background-color: #FFC0CB
+    }
+
+    .hanging{
+	padding: 10px;
+	padding-left: 64px;
+	text-indent: -60px;
+	margin-left: 25%;
+	margin-right: 25%;
+	line-height: 2;
+    }
+
+  </style>
+
+  <body>
+    <br />
+    <br />
+    <h1 align="middle">AI Sentience: Harm or Hurt</h1>
+        <div style="background-color: LightPink; display: flex; justify-content: space-between;">
+      <a style="display: block; font-size: 20px;" href="https://www.codermerlin.com/users/nahom-tadele/Digital%20Portfolio/index.html">
+	<p style="margin-left: 300px">Home</p>
+      <a style="display: block; font-size: 20px;" href="https://www.codermerlin.com/users/nahom-tadele/Digital%20Portfolio/About.html">
+	<p style="margin-left: 10px">About</p>
+	<a style="display: block; font-size: 20px;" href="https://www.codermerlin.com/users/nahom-tadele/Digital%20Portfolio/Fingerprint.html">
+	  <p style="margin-left 300px">Fingerprint</p>
+	  <a style="dislay:block; font-size: 20px;" href="https://www.codermerlin.com/users/nahom-tadele/Digital%20Portfolio/AI Sentience.html">
+	    <p style="margin-left 300px">AI Sentience</p>
+
+	<a style="display: block; font-size: 20px;" href="https://www.codermerlin.com/users/nahom-tadele/Digital%20Portfolio/class.html">
+	  <p align="margin-left: 1000px">CS1</p>
+
+	  <a style="display: block; font-size: 20px;" href="https://www.codermerlin.com/users/nahom-tadele/Digital%20Portfolio/Sorting.html">
+	    <p style="margin-left 300px">Optimal Sorting</p>
+	  <a style="display: block; font-size: 20px;" href="https://www.codermerlin.com/users/nahom-tadele/Digital%20Portfolio/isp.html">
+	    <p style="margin-right: 300px">ISP</p>
+	  </a>
+	  
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <center style="font-size: 24px">
+      <b>AI Sentience: Harm or Hurt</b>
+    </center>
+    <br />
+    <center style="font-size: 24px">Nahom Tadele</center>
+    <br />
+    <center style="font-size: 24px">Allen High School</center>
+    <br />
+    <center style="font-size: 24px">Computer Science ||</center>
+    <br />
+    <center style="font-size: 24px">Mr.Ben-Yakov</center>
+    <br />
+    <center style="font-size: 24px">September 1, 2022</center>
+    <br />
+    <br />
+    <br />
+    <br />
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px; text-indent: 40px;">
+      <b> First Glance</b>
+    </p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px; text-indent: 40px;">AI stands for artificial intelligence. AI technology is used to create and interpret human-like or machine-like responses in order to make intelligent decisions. AI seems to be improving by the minute doing things we never thought were capable of non humans. This may look impressive at first glance but only if youre ignoring all the ramifications. Sentient AI may be beneficial but it could hurt us more than it helps us. There is a risk that sentient AI could be used to do harm, either intentionally or unintentionally. For example, sentient AI could be used to create powerful weapon systems that could be used to devastating effects in war. Additionally, sentient AI could be used to create powerful surveillance systems that could be used to invade people's privacy or to track and control them. The dangers are limitless.</p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px; text-indent: 40px;">
+      <b>Digging Deeper</b>
+      </p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px; text-indent: 40px;">Last year, Deep Minds AlphaFold AI system, descended from the Go playing one,  was able to predict three-dimensional structures of proteins from their one dimensional amino acid sequences. It solved the protein folding problem. And made predictions for nearly all 200 million proteins know to exist. This is an incredible feat no human could have accomplished and will allow medical researchers to develop new drugs and vaccines for years to come. AI when being used for things humans cant accomplish presents no problems. But recently, large language models are being used to write screenplays, compose marketing emails, develop videogames, write book reviews and more. AI are even becoming eerily good at having humanlike text conversations. Its becoming better at language and reasoning then humans are. This is scary because AI could end up putting a lot of people out of jobs. AI is only getting more incredible and improving faster and faster. If AI bests humans at everything what are humans left to do?</p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px; text-indent: 40px;">
+      <b>Conclusion</b>
+      </p>
+    <p style="font-size: 20px; margin-left: 300px; margin-right: 300px; text-indent: 40px;">      AI has made incredible advances already and can do many things humans cant. But in a way that could hurt humanity. Once AI becomes advanced enough to put us all out of a job what happens? Its only a matter of time. We will no longer be needed to do the things that we are currently doing because AI Sentience will be able to do them better than us.</p>
+    <br />
+    <br />
+    <br />
+    <center style="font-size: 16px">Refrences</center>
+    <br/>
+
+    <p class="hanging" style="font-size: 16px">
+      Musser, G. (n.d.). What the rise of sentient robots will mean for human beings. NBCNews.com. Retrieved September 1, 2022, from https://www.nbcnews.com/mach/tech/what-rise-sentient-robots-will-mean-human-beings-ncna773146</p>
+    <p class="hanging" style="font-size: 16px">Roose, K. (2022, August 24). We need to talk about how good A.I. is getting. The New York Times. Retrieved September 17, 2022, from https://www.nytimes.com/2022/08/24/technology/ai-technology-progress.html</p>
